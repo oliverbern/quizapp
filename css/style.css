@@ -27,15 +27,15 @@ header {
 	background-image: url(../images/start_small.png);
 	background-repeat: no-repeat;
 	float: right;
-	background-size: cover;
-	padding-right: 57px;
-	margin-top: 14px;
+	height: 98px;
+	width: 102px;
 }
 
 #timer p {
-	margin-top: 0;
-	float: right;
-	margin-top: 30px;
+	margin: 0;
+	position: relative;
+    top: 40%;
+    left: 40%;
 }
 
 .container {
